@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a young and dynamic research group at BUMC in the department of [Hematology](http://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Our primary goal is to understand the transcriptional principles of cellular plasticity in multicellular tissues in both health and disease. Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. We apply computational and statistical methods to our obtained data to understand - and intervene in - processes such as tumor formation and treatment resistance. 
+We are a young and dynamic research group at BUMC in the department of [Hematology](http://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Our primary goal is to understand the transcriptional principles of cellular plasticity in multicellular tissues in both health and disease. Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. We apply computational and statistical methods to our obtained data to understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](research). 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -54,9 +54,6 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
 </div>
 
 
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 
  **We are  looking for passionate new (under) graduate students, Postdocs, Research technicians and a labmanager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
