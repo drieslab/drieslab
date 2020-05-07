@@ -1,10 +1,32 @@
 
-- title: "Giotto; a toolbox for spatial expression visualization and analysis"
-  image: 
-  description: A toolbox for visualization and analysis of multiple spatial transcriptomic and proteomic datasets from a large variety of platforms.
-  authors: Rubn Dries
+- title: "Giotto, a toolbox for spatial single-cell expression visualization and analysis"
+  image: diagram_giotto_workflow.png
+  description: The Giotto package consists of two modules, Giotto Analyzer and Viewer (see www.spatialgiotto.com), which provide tools to process, analyze and visualize single-cell spatial expression data. The underlying framework is generalizable to virtually all currently available spatial datasets. We recently demonstrated the general applicability on 10 different datasets created by 9 different state-of-the-art spatial technologies, including in situ hybridization (seqFISH+, merFISH, osmFISH), sequencing (Slide-seq, Visium, STARmap) and imaging-based multiplexing/proteomics (CyCIF, MIBI, CODEX). These technologies differ in terms of resolution (single cell vs multiple cells), spatial dimension (2D vs 3D), molecular modality (protein vs RNA), and throughput (number of cells and genes).
+  authors: Ruben Dries, Qian Zhu, Li Huipeng, Rui Dong, Guo-Cheng Yuan
   link:
     url: https://github.com/RubD/Giotto
     display:  Giotto
+  highlight: 1
+  news2:
+
+  
+- title: "RESCUE"
+  image: summary_rescue_tracy.png
+  description:  Here we present a computational method, called RESCUE, to mitigate the dropout problem by imputing gene expression levels using information from other cells with similar patterns. Unlike existing methods, we use an ensemble-based approach to minimize the feature selection bias on imputation. By comparative analysis of simulated and real single-cell RNA-seq datasets, we show that RESCUE outperforms existing methods in terms of imputation accuracy which leads to more precise cell-type identification.
+  authors: Sam Tracy, Guo-Cheng Yuan, Ruben Dries
+  link:
+    url: https://github.com/seasamgo/rescue
+    display:  RESCUE
+  highlight: 1
+  news2:
+  
+  
+- title: "GeTrackViz"
+  image: tracks_GeTrackViz2.png
+  description: (alpha) Tools to plot genomic data formats (bed, bdg, bedpe) and one wrapper to create genomic track visualizations that can be further polished and used for publication.
+  authors: Ruben Dries
+  link:
+    url: https://github.com/RubD/GeTrackViz2
+    display:  GeTrackViz
   highlight: 1
   news2:

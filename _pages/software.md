@@ -23,7 +23,7 @@ permalink: /software/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ softw.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ softw.image }}" class="img-responsive" width="50%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/softwpic/{{ softw.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ softw.description }}</p>
   <p><em>{{ softw.authors }}</em></p>
   <p><strong><a href="{{ softw.link.url }}">{{ softw.link.display }}</a></strong></p>
@@ -47,3 +47,12 @@ permalink: /software/
 {% endif %}
 
 <p> &nbsp; </p>
+
+## Full List
+
+{% for softw in site.data.softwlist %}
+
+  {{ softw.title }} <br />
+  <em>{{ softw.authors }} </em><br /><a href="{{ softw.link.url }}">{{ softw.link.display }}</a>
+
+{% endfor %}
