@@ -56,7 +56,7 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
 
 
 
- **We are  looking for passionate new (under) graduate students, Postdocs, Research technicians and a labmanager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new (under) graduate students, Postdocs, Research technicians and a labmanager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
 We are grateful for funding from the [Hematology](http://www.bumc.bu.edu/hematology/) section at BUMC.
