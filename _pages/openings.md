@@ -1,14 +1,16 @@
 ---
-title: "Dries Lab - Vacancies"
+title: "Dries Lab - Join Us"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /join
 ---
 
-# Open positions
+# Join the team!
 
-We are always looking for new group members with passion, talent, and grit!
+We are currently actively recruiting and are looking for new group members with passion and talent for science!
+
+The projects in our lab are highly trans-disciplinary and are situated at the interface of functional (single-cell) genomics, computational biology, imaging using in vitro model systems of both health and disease (cancer).
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
