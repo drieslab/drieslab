@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a young and dynamic research group at BUMC in the department of [Hematology](http://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. We work together as a team and apply computational and statistical methods to our obtained data to understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](research)). 
+We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](http://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/).Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. By applying computational and statistical methods to biological data we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](research)). 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -59,7 +59,7 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
  **Do you have a passion for science and discovery? We are  looking for (under) graduate students, Postdocs, Research technicians and a labmanager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
-We are grateful for funding from the [Hematology](http://www.bumc.bu.edu/hematology/) section at BUMC.
+We are grateful for funding from the [Hematology and Medical Oncology](http://www.bumc.bu.edu/hematology/) section at BUMC.
 
 
 <figure class="fourth">
