@@ -29,7 +29,7 @@ Jump to [staff](#staff), [students](#undergraduate-students), [alumni](#alumni),
   <i>{{ member.info }}
   <br> email: <{{ member.email }}>
   <br> CV: <a class="off" href="{{ site.url }}{{ site.baseurl }}/pdfs/CV/{{ member.CV }}">link</a>
-  <br> summary: {{ member.summary }} </i>
+  <br> mini-bio: {{ member.mini-bio }} </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
