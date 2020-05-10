@@ -25,7 +25,7 @@ We are currently looking to hire a (junior/senior) research technician and/or la
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
 [Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
 -->
-Interested postdoctoral fellows should e-mail [Ruben](mailto:thedrieslab@gmail.com) with the following information: (i) a recent CV, including a summary of their current and past research experiences, (ii) a short statement on the types of projects that they are interested in pursuing in the Dries Lab, and (iii) contact information for 3 references. **Important**: please insert _"Application Postdoc"_ in the subject line.
+Our research interest are diverse and span a wide range of [topics](/research). Hence we are looking for energetic people from different backgrounds, including molecular biology, imaging, genomics, statistics, data science, that want to deepen their knowledge and/or learn about other fields. Interested postdoctoral fellows should e-mail [Ruben](mailto:thedrieslab@gmail.com) with the following information: (i) a recent CV, including a summary of their current and past research experiences, (ii) a short statement on the types of projects that they are interested in pursuing in the Dries Lab, and (iii) contact information for 3 references. **Important**: please insert _"Application Postdoc"_ in the subject line.
 
 
 

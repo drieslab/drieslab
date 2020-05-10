@@ -29,8 +29,9 @@ postdocs to apply for independent funding to grow both as an individual and rese
 #### Mechanistic insights in the role of microenvironmental cell-to-cell interactions
 The potential of a cell, such as a progenitor cell or tumor cell, is not only determined
 by its intracellular regulatory network, but also by the instructions it receives from the extracellular
-environment. One fast way of cell-to-cell communication is through direct contact and here
-we will assess the role of the microenvironmental cell-type composition in a manner that preserves the spatial information using techniques such as spatial omics.
+environment. One rapid way of cell-to-cell communication is through direct contact and here
+we will assess the role of the microenvironmental cell-type composition in a manner that
+preserves the spatial information using techniques such as spatial omics.
 
 &nbsp;
   
@@ -39,13 +40,13 @@ Chromatin reorganization has been studied extensively at large scale (A/B compar
 however relatively little is known about chromatin organization at the gene regulatory level. In
 this project we will combine targeted perturbations with high-resolution looping data
 to unravel the role of transcription factors and other DNA binding elements. This information will
-be subsequently leveraged to investigate the potential to drug the non-coding regions of the genome by identifying vulnerabilities
-in selected cancer types.
+be subsequently leveraged to identify novel vulnerabilities in selected cancer types, such as the
+potential to drug the non-coding looping regions of the genome.
  
 &nbsp; 
   
 #### Coupling transcription and cell-cycle
 Recent evidence suggests that RNA transcription and DNA replication are not completely
 independent processes. In this project we will generate data to create an integrative model and
-use this to design novel data-driven therapeutic strategies to target fast cycling tumor cells.
+use this to design novel data-driven therapeutic strategies to target transcriptionally active and fast cycling tumor cells.
 

@@ -2,16 +2,20 @@
   photo: ruben_dries.png
   info: Assistant professor, starts August 2020
   email: thedrieslab@gmail.com
+  CV: ruben-dries-cv.pdf
+  summary: Result of a moonshot project; Fusion of a stem cell researcher with a computational biology & cancer expert. 
   number_educ: 4
   education1: Master in Biomedical Sciences at <a href="https://gbiomed.kuleuven.be/english">K.U.Leuven</a> and <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>.
-  education2: PhD at K.U.Leuven with D. Huylebroeck
-  education3: PhD at Erasmus M.C. with D. Huylebroeck
-  education4: Postdoctoral Fellow at <a href="https://hms.harvard.edu/">Harvard</a> & <a href="https://www.dana-farber.org/">DFCI</a> with <a href="https://ranigeorgelab.dana-farber.org/">Rani George</a>, <a href="https://med.nyu.edu/wonglab/welcome-laboratory-kwok-kin-wong">Kwok-Kin Wong</a> and <a href="http://bcb.dfci.harvard.edu/~gcyuan/">Guo-Cheng Yuan</a>.
+  education2: PhD in Stem Cell biology at K.U.Leuven with D. Huylebroeck
+  education3: PhD in Systems biology at Erasmus M.C. with D. Huylebroeck
+  education4: Postdoctoral Fellow in computational biology and cancer research at <a href="https://hms.harvard.edu/">Harvard</a> & <a href="https://www.dana-farber.org/">DFCI</a> with <a href="https://ranigeorgelab.dana-farber.org/">Rani George</a>, <a href="https://med.nyu.edu/wonglab/welcome-laboratory-kwok-kin-wong">Kwok-Kin Wong</a> and <a href="http://bcb.dfci.harvard.edu/~gcyuan/">Guo-Cheng Yuan</a>.
 
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.drieslab.com/join">openings</a> for more info
   email: thedrieslab@gmail.com
+  CV: ...
+  summary: Nothing to declare!
   number_educ: 0
   education1:
   education2:
