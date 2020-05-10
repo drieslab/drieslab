@@ -1,7 +1,7 @@
 - name: Ruben Dries
   photo: ruben_dries.png
   info: Assistant professor, starts August 2020
-  email: drieslab@gmail.com
+  email: thedrieslab@gmail.com
   number_educ: 4
   education1: Master in Biomedical Sciences at <a href="https://gbiomed.kuleuven.be/english">K.U.Leuven</a> and <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>.
   education2: PhD at K.U.Leuven with D. Huylebroeck
@@ -11,7 +11,7 @@
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.drieslab.com/join">openings</a> for more info
-  email: drieslab@gmail.com
+  email: thedrieslab@gmail.com
   number_educ: 0
   education1:
   education2:
