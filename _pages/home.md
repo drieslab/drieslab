@@ -28,16 +28,16 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/boston_skyline.png" alt="Slide 1" style="width: 600px" class="center" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/interaction.png" alt="Slide 2" style="width: 400px" class="center" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CDK7_fig.png" alt="Slide 2" style="width: 600px" class="center" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo.png" alt="Slide 3" style="width: 400px" class="center" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BORIS_fig.png" alt="Slide 3" style="width: 600px" class="center" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatial_network.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatial_fig.png" alt="Slide 4" style="width: 400px" class="center" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatial_niche.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CDK12_fig.png" alt="Slide 5" style="width: 400px" class="center" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/overview.png" alt="Slide 6" />
