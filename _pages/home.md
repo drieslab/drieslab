@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](http://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. By applying computational and statistical methods to biological data we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](research)). 
+We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](http://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. By generating experimental data and applying computational and statistical methods we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](research)). 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
