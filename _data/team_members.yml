@@ -16,8 +16,8 @@
   photo: rock.jpg
   info: Graduate Student
   email: jiajic@bu.edu
-  CV: ...
-  mini-bio: It's a mistery!
+  CV: 
+  mini-bio: "It's a mistery!"
   number_educ: 1
   education1: Blabla
   education2:
@@ -28,8 +28,8 @@
   photo: Emma_Kelley.png
   info: Lab Manager & Research Data Associate
   email: ekelley1@bu.edu
-  CV: ...
-  mini-bio: It's a mistery!
+  CV: 
+  mini-bio: "It's a mistery!"
   number_educ: 1
   education1: Blabla
   education2: 
