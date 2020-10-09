@@ -1,4 +1,4 @@
-- name: Ruben Dries
+- name: "Ruben Dries""
   photo: ruben_dries.png
   info: "Assistant professor of Medicine <br>
          Divisions of Hematology and Oncology and Computational Biomedicine <br>
@@ -11,6 +11,31 @@
   education2: PhD in Stem Cell biology at K.U.Leuven with D. Huylebroeck
   education3: PhD in Systems biology at Erasmus M.C. with D. Huylebroeck
   education4: Postdoctoral Fellow in computational biology and cancer research at <a href="https://hms.harvard.edu/">Harvard</a> & <a href="https://www.dana-farber.org/">DFCI</a> with <a href="https://ranigeorgelab.dana-farber.org/">Rani George</a>, <a href="https://med.nyu.edu/wonglab/welcome-laboratory-kwok-kin-wong">Kwok-Kin Wong</a> and <a href="http://bcb.dfci.harvard.edu/~gcyuan/">Guo-Cheng Yuan</a>.
+
+- name: "Jiaji (George) Chen"
+  photo: rock.jpg
+  info: Graduate Student
+  email: jiajic@bu.edu
+  CV: ...
+  mini-bio: It's a mistery!
+  number_educ: 1
+  education1: Blabla
+  education2:
+  education3:
+  education4:
+
+- name: "Emma Kelley"
+  photo: Emma_Kelley.png
+  info: Lab Manager & Research Data Associate
+  email: ekelley1@bu.edu
+  CV: ...
+  mini-bio: It's a mistery!
+  number_educ: 1
+  education1: Blabla
+  education2: 
+  education3:
+  education4:
+
 
 - name: "This could be you!"
   photo: rock.jpg
