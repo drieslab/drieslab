@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new (under) graduate students, Postdocs, Research technicians and a lab manager to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join) **!**
+ **We are  looking for new (under) graduate students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
 Jump to [staff](#staff), [students](#undergraduate-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
@@ -194,6 +194,5 @@ Jump to [staff](#staff), [students](#undergraduate-students), [alumni](#alumni),
 
 </div>
 
-
 ## Administrative Support
-<a href="mailto:??@bmc.edu">???</a> is helping us with administration.
+<a href="mailtoCasaundra.Knight@bmc.org">Casaundra Knight</a> is helping us with administration.

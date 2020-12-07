@@ -18,17 +18,6 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 ### Current open positions
 
-#### Research technician / Lab manager
-We are currently looking to hire a (junior/senior) research technician and/or lab manager to move forward the experimental basis on which new biological insights can be built. The ideal candidate is comfortable performing wet lab experiments with a high degree of independence and is motivated and eager to get immersed in novel technologies. The experimental portion of this position includes cell culture, molecular biology, imaging and preparation of multi–omics experiments. Relevant experience in any of these areas will be an advantage. Besides being exposed to a broad range of experimental techniques and biological questions, you will have the opportunity to help kick-start and support a vibrant research group. The person we are looking for to join our team is proactive and enjoys optimizing how the lab functions. Together with Ruben you will work out the optimal strategy to operate a lab and become an invaluable part of our research operation. Interested applicants should e-mail [Ruben](mailto:thedrieslab@gmail.com) with the following information: (i) a recent CV, including a brief summary of their current and past research experiences and (ii) a short statement on their current and future scientific interests. **Important**: please insert _"Application Research Tecchnician"_ in the subject line.  
-
-
-#### (under) graduate positions
-We strongly support scientific training, including both undergraduate and graduate research. Interested applicants
-can find more information about the process at Boston University on the following websites:  
-- [PhD Programs at BUMC](http://www.bumc.bu.edu/gms/academics/phd-programs/)  
-- [Undergraduate Research](https://www.bu.edu/urop/)  
-
-
 #### Postdoc positions
 <!--You find the current job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
@@ -36,6 +25,14 @@ can find more information about the process at Boston University on the followin
 -->
 Our research interest are diverse and span a wide range of [topics](/research). Hence we are looking for energetic people from different backgrounds, including molecular biology, imaging, genomics, statistics, data science, that want to deepen their knowledge and/or learn about other fields. Interested postdoctoral fellows should e-mail [Ruben](mailto:rdries@bu.edu) with the following information: (i) a recent CV, including a summary of their current and past research experiences, (ii) a short statement on the types of projects that they are interested in pursuing in the Dries Lab, and (iii) contact information for 3 references. **Important**: please insert _"Application Postdoc"_ in the subject line. More information can be found [here]({{ site.baseurl }}/pdfs/job_advertisement/Drieslab_postdoctoral_positions.pdf). 
 
+#### Junior Research Data Associate ####
+We are currently looking for a talented individual who wants to work on the interface of data visualization, project development and automating analysis pipelines. The work covers a wide range of technical and computational questions to advance the field of functional genomics and spatial transcriptomics. Interested candidates should e-mail [Ruben](mailto:rdries@bu.edu) with the following information: (i) a recent CV, including a summary of their current and past research experiences, (ii) a short statement on the types of projects or questions that they are interested in pursuing in the Dries Lab, and (iii) contact information for 2 references.**Important**: please insert _"Application Data Associate"_ in the subject line.
+
+#### (under) graduate positions
+We strongly support scientific training, including both undergraduate and graduate research. Interested applicants
+can find more information about the process at Boston University on the following websites:  
+- [PhD Programs at BUMC](http://www.bumc.bu.edu/gms/academics/phd-programs/)  
+- [Undergraduate Research](https://www.bu.edu/urop/)  
 
 
 
