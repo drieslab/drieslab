@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new (under) graduate students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join) **!**
+ **We are  always looking for people with a passion for research to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join) **!**
 
 
 Jump to [staff](#staff), [students](#undergraduate-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).

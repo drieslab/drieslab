@@ -35,18 +35,4 @@ preserves the spatial information using techniques such as spatial omics.
 
 &nbsp;
   
-#### Role of protein mediated looping at the nucleosome scale
-Chromatin reorganization has been studied extensively at large scale (A/B compartments, TADS, ...),
-however relatively little is known about chromatin organization at the gene regulatory level. In
-this project we will combine targeted perturbations with high-resolution looping data
-to unravel the role of transcription factors and other DNA binding elements. This information will
-be subsequently leveraged to identify novel vulnerabilities in selected cancer types, such as the
-potential to drug the non-coding looping regions of the genome.
- 
-&nbsp; 
-  
-#### Coupling transcription and cell-cycle
-Recent evidence suggests that RNA transcription and DNA replication are not completely
-independent processes. In this project we will generate data to create an integrative model and
-use this to design novel data-driven therapeutic strategies to target transcriptionally active and fast cycling tumor cells.
 
