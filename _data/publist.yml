@@ -1,4 +1,37 @@
-- title: "Multifaceted actions of Zeb2 in postnatal neurogenesis from the ventricular-subventricular zone to the olfactory bulb"
+
+- title: "<b>Discovery and resistance mechanism of a selective CDK12 degrader.</b>"
+  image: summary_Zeb2_Deryckere.png
+  description: Cyclin-dependent kinase 12 (CDK12) is an emerging therapeutic target due to its role in regulating transcription of DNA-damage response (DDR) genes. However, development of selective small molecules targeting CDK12 has been challenging due to the high degree of homology between kinase domains of CDK12 and other transcriptional CDKs, most notably CDK13. In the present study, we report the rational design and characterization of a CDK12-specific degrader, BSJ-4-116. BSJ-4-116 selectively degraded CDK12 as assessed through quantitative proteomics. Selective degradation of CDK12 resulted in premature cleavage and poly(adenylation) of DDR genes. Moreover, BSJ-4-116 exhibited potent antiproliferative effects, alone and in combination with the poly(ADP-ribose) polymerase inhibitor olaparib, as well as when used as a single agent against cell lines resistant to covalent CDK12 inhibitors. Two point mutations in CDK12 were identified that confer resistance to BSJ-4-116, demonstrating a potential mechanism that tumor cells can use to evade bivalent degrader molecules.
+  authors: Jiang, B., Gao, Y., Che, J., Lu, W., Kaltheuner, I.H., Dries, R., Kalocsay, M., Berberich, M.J., Jiang, J., You, I., Kwiatkowski, N., Riching, K.M., Daniels, D.L., Sorger, P.K., Geyer, M., Zhang, T., Gray, N.S
+  link:
+    url: ../pdfs/papers/manuscript_2021_Jiang_CDK12_degrader.pdf
+    display:  Jiang B et al. 2021. Nature Chemical Biology.
+  highlight: 0
+  news2:
+
+
+- title: "<b>Cell lineage as a predictor of immune response in neuroblastoma.</b>"
+  image: summary_Zeb2_Deryckere.png
+  description: Immunotherapy for patients with neuroblastoma has met with limited success, partly due to an incomplete understanding of the mechanisms underlying immune responsiveness in this clinically and genetically heterogenic tumor. Here, we undertook an unbiased analysis using dimension reduction and UMAP visualization of transcriptional signatures derived from 498 primary neuroblastoma tumors. Four distinct clusters based on differentially expressed genes emerged, of which one, representing about 30% and comprising mainly of <i>MYCN</i>-nonamplified tumors, was notable for the high expression of genes associated with both immune response activation and suppression. This capacity to elicit a productive immune response resided exclusively in tumors with dominant populations of undifferentiated, neural crest-like or mesenchymal cells; by contrast, tumors comprising primarily of committed, adrenergic neuron-like cells were less immunogenic. Mesenchymal neuroblastoma cells were enriched for innate and adaptive immune gene signatures, demonstrated engagement with cytotoxic T and natural killer cells, and induced immune cell infiltration in an immunocompetent mouse model. Transcriptional or targeted therapy-induced reprogramming of adrenergic cells to the mesenchymal state led to reactivation of tumor cell-intrinsic immune genes. Key immune response genes in adrenergic tumor cells were found to be epigenetically silenced by the PRC2 complex, and such repression could be relieved by either mesenchymal cell state reprogramming or EZH2 inhibition, leading to increased activation of natural killer cells by the tumor cells. These data identify cell lineage as a major determinant of the immunogenic potential in neuroblastoma that could be used to stratify patients who are most likely to benefit from immunotherapy.
+  authors: Sengupta, S., Das, S., Crespo, A., Miller, B., Sharma, B., Zhang, S., Dries, R., Huang, H., Krajewska, M., Debruyne, D.N., Soriano, L., Cohen, M.A., Versteeg, R., Jaenisch, R., Spranger, S., Lieberman, J., George, R.E.
+  link:
+    url: ../pdfs/papers/manuscript_2021_Sengupta_Neuroblastoma.pdf
+    display:  Sengupta S et al. 2021. biorxiv.
+  highlight: 0
+  news2:
+
+- title: "<b>Multi-Modal Profiling of Human Fetal Liver-Derived Hematopoietic Stem Cells Reveals the Molecular Signature of Engraftment Potential.</b>"
+  image: summary_Zeb2_Deryckere.png
+  description: The human hematopoietic stem cell (HSC) harbors remarkable regenerative potential that can be harnessed therapeutically. During early development, HSCs in the fetal liver (FL) undergo active expansion while simultaneously retaining robust engraftment capacity, yet the underlying molecular program responsible for their efficient engraftment remains unclear. We profiled 26,407 FL cells at both transcriptional and protein levels including over 7,000 highly enriched and functional FL HSCs to establish a detailed molecular signature of engraftment potential. Integration of transcript and linked cell surface marker expression revealed a generalizable signature defining functional FL HSCs and allowed for the stratification of enrichment strategies with high translational potential. This comprehensive, multi-modal profiling of engraftment capacity connects a critical biological function at a key developmental timepoint with its underlying molecular drivers, serving as a useful resource for the field.
+  authors: Vanuytsel, K., Villacorta-Martin, C., Lindstrom-Vautrin, J., Wang, Z., Garcia-Beltran, W.F., Vrbanac, V., Matte, T.M., Dowrey, T.W., Kumar, S.S., Li, M., Dries, R., Campbell, J.D., Belkina, A.C., Balazs, A.B., Murphy, G.J.
+  link:
+    url: ../pdfs/papers/manuscript_2021_Vanuytsel_HSC.pdf
+    display:  Vanuytsel K et al. 2021. biorxiv.
+  highlight: 0
+  news2:
+
+
+- title: "<b>Multifaceted actions of Zeb2 in postnatal neurogenesis from the ventricular-subventricular zone to the olfactory bulb.</b>"
   image: summary_Zeb2_Deryckere.png
   description: The transcription factor Zeb2 controls fate specification and subsequent differentiation and maturation of multiple cell types in various embryonic tissues. It binds many protein partners, including activated Smad proteins and the NuRD co-repressor complex. How Zeb2 subdomains support cell differentiation in various contexts has remained elusive. Here, we have studied the role of Zeb2 and its domains in neurogenesis and neural differentiation in the young postnatal ventricular-subventricular zone (V-SVZ), where neural stem cells generate olfactory bulb-destined interneurons. Conditional Zeb2 knockouts and separate acute loss- and gain-of-function approaches indicated that Zeb2 is essential to control apoptosis and neuronal differentiation of V-SVZ progenitors before and after birth, and identified Sox6 as Zeb2-dependent and potential downstream target gene. Zeb2 genetic inactivation impaired the differentiation potential of the V-SVZ niche in a cell-autonomous fashion. We also provide evidence that its normal function in the V-SVZ involves non-autonomous mechanisms as well. Additionally, we could demonstrate distinct roles for Zeb2 protein-binding domains, suggesting that Zeb2 partners co-determine neuronal output from the mouse V-SVZ in both quantitative and qualitative manners in early postnatal life.
   authors: Astrid Deryckere, Elke Stappers, Ruben Dries, Elise Peyre, Veronique van den Berghe, Andrea Conidi, F. Isabella Zampeta, Annick Francis, Marjolein Bresseleers, Agata Stryjewska, Ria Vanlaer, Elke Maas, Ihor V. Smal, Wilfred F. J. van IJcken, Frank G. Grosveld, Laurent Nguyen, Danny Huylebroeck, Eve Seuntjens
@@ -8,7 +41,19 @@
   highlight: 0
   news2:
 
-- title: "CDK7 Inhibition Potentiates Genome Instability Triggering Anti-tumor Immunity in Small Cell Lung Cancer"
+
+
+- title: "<b>Giotto: a toolbox for integrative analysis and visualization of spatial expression data.</b>"
+  image: summary_Giotto_Dries2.png
+  description: Spatial transcriptomic and proteomic technologies have provided new opportunities to investigate cells in their native microenvironment. Here we present Giotto, a comprehensive and open-source toolbox for spatial data analysis and visualization. The analysis module provides end-to-end analysis by implementing a wide range of algorithms for characterizing tissue composition, spatial expression patterns, and cellular interactions. Furthermore, single-cell RNAseq data can be integrated for spatial cell-type enrichment analysis. The visualization module allows users to interactively visualize analysis outputs and imaging features. To demonstrate its general applicability, we apply Giotto to a wide range of datasets encompassing diverse technologies and platforms.
+  authors: Dries, R., Zhu, Q., Dong, R., Eng, C.-H.L., Li, H., Liu, K., Fu, Y., Zhao, T., Sarkar, A., Bao, F., George, R.E., Pierson, N., Cai, L., Yuan, G.-C.
+  link:
+    url: ../pdfs/papers/manuscript_2021_Dries_Giotto.pdf
+    display:  Dries R et al. 2021. Genome Biology.
+  highlight: 1
+  news2:
+
+- title: "<b>CDK7 Inhibition Potentiates Genome Instability Triggering Anti-tumor Immunity in Small Cell Lung Cancer.</b>"
   image: summary_CDK7_Zhang.png
   description: Cyclin-dependent kinase 7 (CDK7) is a central regulator of the cell cycle and gene transcription. However, little is known about its impact on genomic instability and cancer immunity. Using a selective CDK7 inhibitor, YKL-5-124, we demonstrated that CDK7 inhibition predominately disrupts cell-cycle progression and in- duces DNA replication stress and genome instability in small cell lung cancer (SCLC) while simultaneously triggering immune-response signaling. These tumor-intrinsic events provoke a robust immune surveillance program elicited by T cells, which is further enhanced by the addition of immune-checkpoint blockade. Combining YKL-5-124 with anti-PD-1 offers significant survival benefit in multiple highly aggressive murine models of SCLC, providing a rationale for new combination regimens consisting of CDK7 inhibitors and immunotherapies.
   authors: Hua Zhang#, Camilla L. Christensen#, **Ruben Dries#**, Matthew G. Oser#, Jiehui Deng, Brian Diskin, Fei Li, Yuanwang Pan, Xuzhu Zhang, Yandong Yin, Eleni Papadopoulos, Val Pyon, Cassandra Thakurdin, Nicholas Kwiatkowski, Kandarp Jani, Alexandra R. Rabin, Dayanne M. Castro, Ting Chen, Heather Silver, Qingyuan Huang, Mirna Bulatovic, Catriona M. Dowling, Belen Sundberg, Alan Leggett, Michela Ranieri, Han Han, Shuai Li, Annan Yang, Kristen E. Labbe, Christina Almonte, Vladislav O. Sviderskiy, Max Quinn, Jack Donaghue, Eric S. Wang, Tinghu Zhang, Zhixiang He, Vamsidhar Velcheti, Peter S. Hammerman, Gordon J. Freeman, Richard Bonneau, William G. Kaelin, Jr., Kate D. Sutherland, Ariena Kersbergen, Andrew J. Aguirre, Guo-Cheng Yuan, Eli Rothenberg, George Miller, Nathanael S. Gray and Kwok-Kin Wong.
@@ -19,7 +64,7 @@
   news2:
 
 
-- title: "Integrative and perturbation-based analysis of the transcriptional dynamics of TGFÎ²/BMP system components in transition from embryonic stem cells to neural progenitors"
+- title: "<b>Integrative and perturbation-based analysis of the transcriptional dynamics of TGFÎ²/BMP system components in transition from embryonic stem cells to neural progenitors.</b>"
   image: summary_TGFb_Dries.png
   description: Cooperative actions of extrinsic signals and cell-intrinsic transcription factors alter gene regulatory networks enabling cells to respond appropriately to environmental cues. Signaling by transforming growth factor type Î² (TGFÎ²) family ligands (eg, bone morphogenetic proteins [BMPs] and Activin/Nodal) exerts cell-type specific and context-dependent transcriptional changes, thereby steering cellular transitions throughout embryogenesis. Little is known about coordinated regulation and transcriptional interplay of the TGFÎ² system. To understand intrafamily transcriptional regulation as part of this system's actions during development, we selected 95 of its components and investigated their mRNA-expression dynamics, gene-gene interactions, and single-cell expression heterogeneity in mouse embryonic stem cells transiting to neural progenitors. Interrogation at 24 hour intervals identified four types of temporal gene transcription profiles that capture all stages, that is, pluripotency, epiblast formation, and neural commitment. Then, between each stage we performed esiRNA-based perturbation of each individual component and documented the effect on steady-state mRNA levels of the remaining 94 components. This exposed an intricate system of multilevel regulation whereby the majority of gene-gene interactions display a marked cell-stage specific behavior. Furthermore, single-cell RNA-profiling at individual stages demonstrated the presence of detailed co-expression modules and subpopulations showing stable co-expression modules such as that of the core pluripotency genes at all stages. Our combinatorial experimental approach demonstrates how intrinsically complex transcriptional regulation within a given pathway is during cell fate/state transitions.
   authors: Ruben Dries, Agata Stryjewska, Kathleen Coddens, Satoshi Okawa, Tineke Notelaers, Judith Birkhoff, Mike Dekker, Catherine M. Verfaillie, Antonio del Sol, Eskeatnaf Mulugeta, Andrea Conidi, Frank G. Grosveld, Danny Huylebroeck
@@ -29,7 +74,7 @@
   highlight: 1
   news2:
 
-- title: "BORIS promotes chromatin regulatory interactions in treatment-resistant cancer cells."
+- title: "<b>BORIS promotes chromatin regulatory interactions in treatment-resistant cancer cells.</b>"
   image: summary_BORIS_Debruyne.png
   description: The CTCF paralogue BORIS is upregulated in transcriptionally reprogrammed neuroblastoma cells rendered resistant to targeted therapy, in which it promotes regulatory chromatin interactions that maintain the resistance phenotype.
   authors: David N. Debruyne#, **Ruben Dries#**, Satyaki Sengupta, Davide Seruggia, Yang Gao, Bandana Sharma, Hao Huang, Lisa Moreau, Michael McLane, Daniel S. Day, Eugenio Marco, Ting Chen, Nathanael S. Gray, Kwok-Kin Wong, Stuart H. Orkin, Guo-Cheng Yuan, Richard A. Young & Rani E. George
@@ -39,7 +84,7 @@
   highlight: 1
   news2:
 
-- title: "RESCUE, imputing dropout events in single-cell RNA-sequencing data."
+- title: "<b>RESCUE, imputing dropout events in single-cell RNA-sequencing data.</b>"
   image: summary_rescue_tracy.png
   description: Single-cell RNA-sequencing technologies provide a powerful tool for systematic dissection of cellular heterogeneity. However, the prevalence of dropout events imposes complications during data analysis and, despite numerous efforts from the community, this challenge has yet to be solved.Results; Here we present a computational method, called RESCUE, to mitigate the dropout problem by imputing gene expression levels using information from other cells with similar patterns. Unlike existing methods, we use an ensemble-based approach to minimize the feature selection bias on imputation. By comparative analysis of simulated and real single-cell RNA-seq datasets, we show that RESCUE outperforms existing methods in terms of imputation accuracy which leads to more precise cell-type identification.Conclusions; Taken together, these results suggest that RESCUE is a useful tool for mitigating dropouts in single-cell RNA-seq data. RESCUE is implemented in R and available at https://github.com/seasamgo/rescue.
   authors: Tracy S, Yuan GC and **Dries R**
@@ -50,7 +95,7 @@
   news1: 
   news2: 
 
-- title: "CDK12 loss in cancer cells affects DNA damage response genes through premature cleavage and polyadenylation."
+- title: "<b>CDK12 loss in cancer cells affects DNA damage response genes through premature cleavage and polyadenylation.</b>"
   image: summary_CDK12_Krajewska.png
   description: Cyclin-dependent kinase 12 (CDK12) modulates transcription elongation by phosphorylating the carboxy-terminal domain of RNA polymerase II and selectively affects the expression of genes involved in the DNA damage response (DDR) and mRNA processing. Yet, the mechanisms underlying such selectivity remain unclear. Here we show that CDK12 inhibition in cancer cells lacking CDK12 mutations results in gene length-dependent elongation defects, inducing premature cleavage and polyadenylation (PCPA) and loss of expression of long (greater than 45 kb) genes, a substantial proportion of which participate in the DDR. This early termination phenotype correlates with an increased number of intronic polyadenylation sites, a feature especially prominent among DDR genes. Phosphoproteomic analysis indicated that CDK12 directly phosphorylates pre-mRNA processing factors, including those regulating PCPA. These results support a model in which DDR genes are uniquely susceptible to CDK12 inhibition primarily due to their relatively longer lengths and lower ratios of U1 snRNP binding to intronic polyadenylation sites.
   authors: Krajewska M#, **Dries R#**, Grassetti AV, Dust S, Gao Y, Huang H, Sharma B, Day DS, Kwiatkowski N, Pomaville M, Dodd O, Chipumuro E, Zhang T, Greenleaf AL, Yuan GC, Gray NS, Young RA, Geyer M, Gerber SA, George RE
@@ -60,7 +105,7 @@
   highlight: 1
   news2:
 
-- title: "Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+."
+- title: "<b>Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+.</b>"
   image: summary_seqfish_Eng.png
   description: Imaging the transcriptome in situ with high accuracy has been a major challenge in single-cell biology, which is particularly hindered by the limits of optical resolution and the density of transcripts in single cells. Here we demonstrate an evolution of sequential fluorescence in situ hybridization (seqFISH+). We show that seqFISH+ can image mRNAs for 10,000 genes in single cells with high accuracy and sub-diffraction-limit resolution in the cortex, subventricular zone and olfactory bulb of mouse brain, using a standard confocal microscope. The transcriptome-level profiling of seqFISH+ allows unbiased identification of cell classes and their spatial organization in tissues. In addition, seqFISH+ reveals subcellular mRNA localization patterns in cells and ligand-receptor pairs across neighbouring cells. This technology demonstrates the ability to generate spatial cell atlases and to perform discovery- driven studies of biological processes in situ.
   authors: Chee-Huat Linus eng, Michael Lawson, Qian Zhu, **Ruben Dries**, Noushin Koulena, Yodai takei, Jina Yun, Christopher Cronin, Christoph Karp, Guo-Cheng Yuan & Long Cai
@@ -70,7 +115,7 @@
   highlight: 1
   news2:
 
-- title: "Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data."
+- title: "<b>Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data.</b>"
   image: summary_HMRF_Zhu.png
   description: How intrinsic gene-regulatory networks interact with a cells spatial environment to define its identity remains poorly understood. We developed an approach to distinguish between intrinsic and extrinsic effects on global gene expression by integrating analysis of sequencing-based and imaging-based single-cell transcriptomic profiles, using cross-platform cell type mapping combined with a hidden Markov random field model. We applied this approach to dissect the cell-type- and spatial-domain-associated heterogeneity in the mouse visual cortex region. Our analysis identified distinct spatially associated, cell-type-independent signatures in the glutamatergic and astrocyte cell compartments. Using these signatures to analyze single-cell RNA sequencing data, we identified previously unknown spatially associated subpopulations, which were validated by comparison with anatomical structures and Allen Brain Atlas images.
   authors: Qian Zhu, Sheel Shah, **Ruben Dries**, Long Cai & Guo-Cheng Yuan
@@ -80,7 +125,7 @@
   highlight: 1
   news2: 
 
-- title: "NK cells mediate synergistic antitumor effects of combined inhibition of HDAC6 and BET in a SCLC preclinical model."
+- title: "<b>NK cells mediate synergistic antitumor effects of combined inhibition of HDAC6 and BET in a SCLC preclinical model.</b>"
   image: 
   description: ""
   authors: Liu Y, Li Y, Liu S, Adeegbe DO, Christensen CL, Quinn MM, **Dries R**, Han S, Buczkowski K, Wang X, Chen T, Gao P, Zhang H, Li F, Hammerman PS, Bradner JE, Quayle SN, Wong KK
@@ -90,7 +135,7 @@
   highlight: 0
   news2:
 
-- title: "Genomic and functional fidelity of small cell lung cancer patient-derived xenografts."
+- title: "<b>Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</b>"
   image: summary_PDX_Drapkin.png
   description: Small cell lung cancer (SCLC) patient-derived xenografts (PDXs) can be generated from biopsies or circulating tumor cells (CTCs), though scarcity of tissue and low efficiency of tumor growth have previously limited these approaches. Applying an established clinical-translational pipeline for tissue collection and an automated microfluidic platform for CTC-enrichment, we generated 17 biopsy-derived PDXs and 17 CTC-derived PDXs in a two-year timeframe, at 89% and 38% efficiency, respectively. Whole exome sequencing showed that somatic alterations are stably maintained between patient tumors and PDXs. Early-passage PDXs maintain the genomic and transcriptional profiles of the founder PDX. In vivo treatment with etoposide and cisplatin (EP) in 30 PDX models demonstrated greater sensitivity in PDXs from EP naÃ¯ve patients, and resistance to EP corresponded to increased expression of a MYC gene signature. Finally, serial CTC-derived PDXs generated from an individual patient at multiple time points accurately recapitulated the evolving drug sensitivities of that patient's disease. Collectively, this work highlights the translational potential of this strategy.
   authors: Drapkin BJ, George J, Christensen CL, Mino-Kenudson M, **Dries R**, Sundaresan T, Phat S, Myers DT, Zhong J, Igo P, Hazar-Rethinam MH, LiCausi JA, Gomez-Caraballo M, Kem M, Jani KN, Azimi R, Abedpour N, Menon R, Lakis S, Heist RS, BÃŒttner R, Haas S, Sequist LV, Shaw AT, Wong KK, Hata AN, Toner M, Maheswaran S, Haber DA, Peifer M, Dyson N, Thomas RK, Farago AF
@@ -99,7 +144,7 @@
     display: Drapkin B et al. 2019. Cancer Discovery.
   highlight: 1
 
-- title: "CDK4/6 Inhibition Augments Anti-Tumor Immunity by Enhancing T Cell Activation."
+- title: "<b>CDK4/6 Inhibition Augments Anti-Tumor Immunity by Enhancing T Cell Activation.</b>"
   image: summary_CDK4_Deng.png
   description:
     Immune checkpoint blockade, exemplified by antibodies targeting the programmed death-1 (PD-1) receptor, can induce durable tumor regressions in some patients. To enhance the efficacy of existing immunotherapies, we screened for small molecules capable of increasing the activity of T cells suppressed by PD-1. Here, we show that short-term exposure to small molecule inhibitors of cyclin-dependent kinases 4 and 6 (CDK4/6) significantly enhances T cell activation, contributing to anti-tumor effects in vivo, due in part to de-repression of Nuclear Factor of Activated T cell (NFAT) family proteins and their target genes, critical regulators of T cell function. Although CDK4/6 inhibitors decrease T cell proliferation, they increase tumor infiltration and activation of effector T cells. Moreover, CDK4/6 inhibition augments the response to PD-1 blockade in a novel ex vivo organotypic tumor spheroid culture system and in multiple in vivo murine syngeneic models, thereby providing a rationale for combining CDK4/6 inhibitors and immunotherapies.
@@ -110,7 +155,7 @@
     display: Deng J et al. 2018. Nature Discovery.
   highlight: 0
 
-- title: "Interleukin-17A Promotes Lung Tumor Progression through Neutrophil Attraction to Tumor Sites and Mediating Resistance to PD-1 Blockade."
+- title: "<b>Interleukin-17A Promotes Lung Tumor Progression through Neutrophil Attraction to Tumor Sites and Mediating Resistance to PD-1 Blockade.</b>"
   image: 
   description:
     Tumors in IL-17:KrasG12D mice grew more rapidly, resulting in a significantly shorter survival as compared with that of KrasG12D mice. IL-6, granulocyte colony-stimulating factor (G-CSF), milk fat globule-EGF factor 8 protein, and C-X-C motif chemokine ligand 1 were increased in the lungs of IL17:Kras mice. Time course analysis revealed that levels of tumor-associated neutrophils were significantly increased, and lymphocyte recruitment was significantly reduced in IL17:KrasG12D mice as compared with in KrasG12D mice. In therapeutic studies PD-1 blockade was not effective in treating IL-17:KrasG12D tumors. In contrast, blocking IL-6 or depleting neutrophils with an anti-Ly-6G antibody in the IL17:KrasG12D tumors resulted in a clinical response associated with T-cell activation. In tumors from patients with lung cancer with KRAS mutation we found a correlation between higher levels of IL-17A and colony- stimulating factor 3 and a significant correlation among high neutrophil and lower T-cell numbers. Here we have shown that an increase in a single cytokine, IL-17A, without additional mutations can promote lung cancer growth by promoting inflammation, which contributes to resistance to PD-1 blockade and sensitizes tumors to cytokine and neutrophil depletion.
@@ -122,7 +167,7 @@
   highlight: 0
   news2: 
 
-- title: "Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer."
+- title: "<b>Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer.</b>"
   image: 
   description: Effective therapies for non-small cell lung cancer (NSCLC) remain challenging despite an increasingly comprehensive understanding of somatically altered oncogenic pathways. It is now clear that therapeutic agents with potential to impact the tumor immune microenvironment potentiate immune-orchestrated therapeutic benefit. Herein, we evaluated the immunoregulatory properties of histone deacetylase (HDAC) and bromodomain inhibitors, two classes of drugs that modulate the epigenome, with a focus on key cell subsets that are engaged in an immune response. By evaluating human peripheral blood and NSCLC tumors, we show that the selective HDAC6 inhibitor ricolinostat promotes phenotypic changes that support enhanced T-cell activation and improved function of antigen-presenting cells. The bromodomain inhibitor JQ1 attenuated CD4+FOXP3+ T regulatory cell suppressive function and synergized with ricolinostat to facilitate immune-mediated tumor growth arrest, leading to prolonged survival of mice with lung adenocarcinomas. Collectively, our findings highlight the immunomodulatory effects of two epigenetic modifiers that, together, promote T cell-mediated antitumor immunity and demonstrate their therapeutic potential for treatment of NSCLC.Significance; Selective inhibition of HDACs and bromodomain proteins modulates tumor-associated immune cells in a manner that favors improved T-cell function and reduced inhibitory cellular mechanisms. These effects facilitated robust antitumor responses in tumor-bearing mice, demonstrating the therapeutic potential of combining these epigenetic modulators for the treatment of NSCLC.
   authors:
@@ -134,7 +179,7 @@
   news1:
   news2: 
 
-- title: "Zeb2 Regulates Cell Fate at the Exit from Epiblast State in Mouse Embryonic Stem Cells."
+- title: "<b>Zeb2 Regulates Cell Fate at the Exit from Epiblast State in Mouse Embryonic Stem Cells.</b>"
   image: summary_Zeb2_stryjewska.png
   description: In human embryonic stem cells (ESCs) the transcription factor Zeb2 regulates neuroectoderm versus mesendoderm formation, but it is unclear how Zeb2 affects the global transcriptional regulatory network in these cell-fate decisions. We generated Zeb2 knockout (KO) mouse ESCs, subjected them as embryoid bodies (EBs) to neural and general differentiation and carried out temporal RNA-sequencing (RNA-seq) and reduced representation bisulfite sequencing (RRBS) analysis in neural differentiation. This shows that Zeb2 acts preferentially as a transcriptional repressor associated with developmental progression and that Zeb2 KO ESCs can exit from their naÃ¯ve state. However, most cells in these EBs stall in an early epiblast-like state and are impaired in both neural and mesendodermal differentiation. Genes involved in pluripotency, epithelial-to-mesenchymal transition (EMT), and DNA-(de)methylation, including Tet1, are deregulated in the absence of Zeb2. The observed elevated Tet1 levels in the mutant cells and the knowledge of previously mapped Tet1-binding sites correlate with loss-of-methylation in neural-stimulating conditions, however, after the cells initially acquired the correct DNA-methyl marks. Interestingly, cells from such Zeb2 KO EBs maintain the ability to re-adapt to 2i+LIF conditions even after prolonged differentiation, while knockdown of Tet1 partially rescues their impaired differentiation. Hence, in addition to its role in EMT, Zeb2 is critical in ESCs for exit from the epiblast state, and links the pluripotency network and DNA-methylation with irreversible commitment to differentiation.
   authors: Stryjewska A#, **Dries R#**, Pieters T, Verstappen G, Conidi A, Coddens K, Francis A, Umans L, van IJcken WF, Berx G, van Grunsven LA, Grosveld FG, Goossens S, Haigh JJ, Huylebroeck D.
@@ -146,7 +191,7 @@
   news2:
 
 
-- title: "Multiparametric profiling of non-small-cell lung cancers reveals distinct immunophenotypes."
+- title: "<b>Multiparametric profiling of non-small-cell lung cancers reveals distinct immunophenotypes.</b>"
   image: 
   description: Immune checkpoint blockade improves survival in a subset of patients with non-small-cell lung cancer (NSCLC), but robust biomarkers that predict response to PD-1 pathway inhibitors are lacking. Furthermore, our understanding of the diversity of the NSCLC tumor immune microenvironment remains limited. METHODS. We performed comprehensive flow cytometric immunoprofiling on both tumor and immune cells from 51 NSCLCs and integrated this analysis with clinical and histopathologic characteristics, next-generation sequencing, mRNA expression, and PD-L1 immunohistochemistry (IHC). RESULTS. Cytometric profiling identified an immunologically 'hot' cluster with abundant CD8+ T cells expressing high levels of PD-1 and TIM-3 and an immunologically 'cold' cluster with lower relative abundance of CD8+ T cells and expression of inhibitory markers. The 'hot' cluster was highly enriched for expression of genes associated with T cell trafficking and cytotoxic function and high PD-L1 expression by IHC. There was no correlation between immunophenotype and KRAS or EGFR mutation, or patient smoking history, but we did observe an enrichment of squamous subtype and tumors with higher mutation burden in the 'hot' cluster. Additionally, approximately 20% of cases had high B cell infiltrates with a subset producing IL-10. CONCLUSIONS. Our results support the use of immune-based metrics to study response and resistance to immunotherapy in lung cancer.
   authors: Lizotte PH, Ivanova EV, Awad MM, Jones RE, Keogh L, Liu H, **Dries R**, Almonte C, Herter-Sprie GS, Santos A, Feeney NB, Paweletz CP, Kulkarni MM, Bass AJ, Rustgi AK, Yuan GC, Kufe DW, JÃ€nne PA, Hammerman PS, Sholl LM, Hodi FS, Richards WG, Bueno R, English JM, Bittinger MA, Wong KK.
@@ -158,8 +203,8 @@
   news2:
   
   
-- title: "BMP-SMAD Signaling Regulates Lineage Priming, but Is Dispensable for Self-Renewal in Mouse Embryonic Stem Cells"
-  image: 
+- title: "<b>BMP-SMAD Signaling Regulates Lineage Priming, but Is Dispensable for Self-Renewal in Mouse Embryonic Stem Cells.</b>"
+  image: summary_BMP_Fernandes.png
   description: Naive mouse embryonic stem cells (mESCs) are in a metastable state and fluctuate between inner cell mass- and epiblast-like phenotypes. Here, we show transient activation of the BMP-SMAD signaling pathway in mESCs containing a BMP-SMAD responsive reporter transgene. Activation of the BMP-SMAD reporter transgene in naive mESCs correlated with lower levels of genomic DNA methylation, high expression of 5-methylcytosine hydroxylases Tet1/2 and low levels of DNA methyltransferases Dnmt3a/b. Moreover, naive mESCs, in which the BMP-SMAD reporter transgene was activated, showed higher resistance to differentiation. Using double Smad1;Smad5 knockout mESCs, we showed that BMP-SMAD signaling is dispensable for self-renewal in both naive and ground state. These mutant mESCs were still pluripotent, but they exhibited higher levels of DNA methylation than their wild-type counterparts and had a higher propensity to differentiate. We showed that BMP-SMAD signaling modulates lineage priming in mESCs, by transiently regulating the enzymatic machinery responsible for DNA methylation.
   authors: Gomes Fernandes M, **Dries R**, Roost MS, Semrau S, de Melo Bernardo A, Davis RP, Ramakrishnan R, Szuhai K, Maas E, Umans L, Abon Escalona V, Salvatori D, Deforce D, Van Criekinge W, Huylebroeck D, Mummery C, Zwijsen A, de Sousa Lopes SM.
   link:
@@ -170,7 +215,7 @@
   news2:
   
   
-- title: "Directed migration of cortical interneurons depends on the cell-autonomous action of Sip1."
+- title: "<b>Directed migration of cortical interneurons depends on the cell-autonomous action of Sip1.</b>"
   image: 
   description: GABAergic interneurons mainly originate in the medial ganglionic eminence (MGE) of the embryonic ventral telencephalon (VT) and migrate tangentially to the cortex, guided by membrane-bound and secreted factors. We found that Sip1 (Zfhx1b, Zeb2), a transcription factor enriched in migrating cortical interneurons, is required for their proper differentiation and correct guidance. The majority of Sip1 knockout interneurons fail to migrate to the neocortex and stall in the VT. RNA sequencing reveals that Sip1 knockout interneurons do not acquire a fully mature cortical interneuron identity and contain increased levels of the repulsive receptor Unc5b. Focal electroporation of Unc5b-encoding vectors in the MGE of wild-type brain slices disturbs migration to the neocortex, whereas reducing Unc5b levels in Sip1 knockout slices and brains rescues the migration defect. Our results reveal that Sip1, through tuning of Unc5b levels, is essential for cortical interneuron guidance.
   authors: van den Berghe V, Stappers E, Vandesande B, Dimidschstein J, Kroes R, Francis A, Conidi A, Lesage F, Dries R, Cazzola S, Berx G, Kessaris N, Vanderhaeghen P, van Ijcken W, Grosveld FG, Goossens S, Haigh JJ, Fishell G, Goffinet A, Aerts S, Huylebroeck D, Seuntjens E.
@@ -182,7 +227,7 @@
   news2:
 
 
-- title: "Few Smad proteins and many Smad-interacting proteins yield multiple functions and action modes in TGFÎ²/BMP signaling in vivo"
+- title: "<b>Few Smad proteins and many Smad-interacting proteins yield multiple functions and action modes in TGFÎ²/BMP signaling in vivo.</b>"
   image: 
   description: Signaling by the many ligands of the TGFÎ² family strongly converges towards only five receptor-activated, intracellular Smad proteins, which fall into two classes i.e. Smad2/3 and Smad1/5/8, respectively. These Smads bind to a surprisingly high number of Smad-interacting proteins (SIPs), many of which are transcription factors (TFs) that co-operate in Smad-controlled target gene transcription in a cell type and context specific manner. A combination of functional analyses in vivo as well as in cell cultures and biochemical studies has revealed the enormous versatility of the Smad proteins. Smads and their SIPs regulate diverse molecular and cellular processes and are also directly relevant to development and disease. In this survey, we selected appropriate examples on the BMP-Smads, with emphasis on Smad1 and Smad5, and on a number of SIPs, i.e. the CPSF subunit Smicl, Ttrap (Tdp2) and Sip1 (Zeb2, Zfhx1b) from our own research carried out in three different vertebrate models.
   authors: Conidi A, Cazzola S, Beets K, Coddens K, Collart C, Cornelis F, Cox L, Joke D, Dobreva MP, Dries R, Esguerra C, Francis A, Ibrahimi A, Kroes R, Lesage F, Maas E, Moya I, Pereira PN, Stappers E, Stryjewska A, van den Berghe V, Vermeire L, Verstappen G, Seuntjens E, Umans L, Zwijsen A, Huylebroeck D.
