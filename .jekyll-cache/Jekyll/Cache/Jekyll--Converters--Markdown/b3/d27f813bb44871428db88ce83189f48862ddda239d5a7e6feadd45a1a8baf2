@@ -1,0 +1,60 @@
+I"¿<h1 id="software">Software</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Giotto, a toolbox for spatial single-cell expression visualization and analysis</pubtit>
+      <p><img src="/images/softwpic/diagram_giotto_workflow.png" class="img-responsive" width="50%" style="float: left" /></p>
+      <p>The Giotto package consists of two modules, Giotto Analyzer and Viewer (see www.spatialgiotto.com), which provide tools to process, analyze and visualize single-cell spatial expression data. The underlying framework is generalizable to virtually all currently available spatial datasets. We recently demonstrated the general applicability on 10 different datasets created by 9 different state-of-the-art spatial technologies, including in situ hybridization (seqFISH+, merFISH, osmFISH), sequencing (Slide-seq, Visium, STARmap) and imaging-based multiplexing/proteomics (CyCIF, MIBI, CODEX). These technologies differ in terms of resolution (single cell vs multiple cells), spatial dimension (2D vs 3D), molecular modality (protein vs RNA), and throughput (number of cells and genes).</p>
+      <p><em>Ruben Dries, Qian Zhu, Li Huipeng, Rui Dong, Guo-Cheng Yuan</em></p>
+      <p><strong><a href="https://rubd.github.io/Giotto/">Giotto</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>RESCUE</pubtit>
+      <p><img src="/images/softwpic/summary_rescue_tracy.png" class="img-responsive" width="50%" style="float: left" /></p>
+      <p>Here we present a computational method, called RESCUE, to mitigate the dropout problem by imputing gene expression levels using information from other cells with similar patterns. Unlike existing methods, we use an ensemble-based approach to minimize the feature selection bias on imputation. By comparative analysis of simulated and real single-cell RNA-seq datasets, we show that RESCUE outperforms existing methods in terms of imputation accuracy which leads to more precise cell-type identification.</p>
+      <p><em>Sam Tracy, Guo-Cheng Yuan, Ruben Dries</em></p>
+      <p><strong><a href="https://github.com/seasamgo/rescue">RESCUE</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>GeTrackViz</pubtit>
+      <p><img src="/images/softwpic/tracks_GeTrackViz2.png" class="img-responsive" width="50%" style="float: left" /></p>
+      <p>(alpha) Tools to plot genomic data formats (bed, bdg, bedpe) and one wrapper to create genomic track visualizations that can be further polished and used for publication.</p>
+      <p><em>Ruben Dries</em></p>
+      <p><strong><a href="https://github.com/RubD/GeTrackViz2">GeTrackViz</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Giotto, a toolbox for spatial single-cell expression visualization and analysis <br />
+  <em>Ruben Dries, Qian Zhu, Li Huipeng, Rui Dong, Guo-Cheng Yuan </em><br /><a href="https://rubd.github.io/Giotto/">Giotto</a></p>
+
+<p>RESCUE <br />
+  <em>Sam Tracy, Guo-Cheng Yuan, Ruben Dries </em><br /><a href="https://github.com/seasamgo/rescue">RESCUE</a></p>
+
+<p>GeTrackViz <br />
+  <em>Ruben Dries </em><br /><a href="https://github.com/RubD/GeTrackViz2">GeTrackViz</a></p>
+
+:ET
