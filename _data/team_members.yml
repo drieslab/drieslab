@@ -52,10 +52,10 @@
   education4:
 
 
-- name: "This could be you!"
+- name: "Yibing Michelle Wei"
   photo: rock.jpg
-  info: See <a href="http://www.drieslab.com/join">openings</a> for more info
-  email: student@bu.edu
+  info: 
+  email: ybwei@bu.edu
   CV: ...
   mini-bio: Nothing to declare!
   number_educ: 0
@@ -64,4 +64,26 @@
   education3:
   education4:
   
+- name: "Junxiang Xu"
+  photo: rock.jpg
+  info: 
+  email: junxiang@bu.edu
+  CV: ...
+  mini-bio: Nothing to declare!
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
   
+- name: "Christina Ennis"
+  photo: rock.jpg
+  info: 
+  email: ennisc@bu.edu
+  CV: ...
+  mini-bio: Nothing to declare!
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

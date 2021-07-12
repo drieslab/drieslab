@@ -1,10 +1,29 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Pareesha Haresh
+  photo: rock.jpg
+  info:
+  email: pharesh@bu.edu
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
 
+- name: Clare Melley
+  photo: rock.jpg
+  info:
+  email: cbm5gns@virginia.edu
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Kylor Lachut      
+  photo: rock.jpg
+  info:
+  email: kylor@bu.edu
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
